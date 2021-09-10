@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MarceloRoch
+- 👀 I’m interested in learning to program
+- 🌱 I'm currently learning about Javascript programming
+- 📫 How to find me: my instagram marcelorocha1312
